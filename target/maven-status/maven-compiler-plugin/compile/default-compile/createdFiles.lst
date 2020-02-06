@@ -1,0 +1,6 @@
+yin\zhang\weather\WeatherGroupingComparator.class
+yin\zhang\friends\FriendsMapper.class
+yin\zhang\friends\FriendJob.class
+yin\zhang\weather\WeatherSortComparator.class
+yin\zhang\friends\FriendsReducer.class
+yin\zhang\weather\WeatherPartitioner.class
